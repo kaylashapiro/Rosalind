@@ -6,7 +6,7 @@ Counting DNA Nucleotides
 
 def count_dna_nucleobases(data):
     '''
-    Count the number of times each DNA nucleotide occurs in data.
+    Count the number of times each DNA nucleobase occurs in data.
     
     Input:
     - data: string of DNA nucleotides
